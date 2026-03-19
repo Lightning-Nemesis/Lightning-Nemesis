@@ -168,21 +168,6 @@ Implemented the **STaR methodology** to boost LLaMA 3.2-3B-Instruct on GSM8K thr
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Amrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lightning-Nemesis&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lightning-Nemesis&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
 
 ---
 
-<div align="center">
-
-*"Languages with more tokens in the training corpus exhibit substantially higher downstream accuracy."*  
-— from my own research, probably
-
-</div>
