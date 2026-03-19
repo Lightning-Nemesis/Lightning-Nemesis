@@ -27,7 +27,7 @@ LLM Researcher · AI/ML Engineer · ex-Quantitative Analytics Intern (Gen AI) @ 
 I work at the intersection of **LLM research and production ML** — evaluating language models at scale, building reasoning systems, and shipping data products that reach millions of users.
 
 - 🔭 &nbsp;Researching multilingual LLM performance gaps and cross-lingual reasoning at ASU
-- 🏦 &nbsp;ex-Wells Fargo · Built GenAI QA systems and LLM evaluation frameworks on the Quant Analytics team
+- 🏦 &nbsp;ex-Wells Fargo · Built GenAI QA systems and LLM evaluation frameworks on the Consumer GenAI team as Quant Analytics intern
 - 🏢 &nbsp;ex-Bajaj Finance · Shipped churn prediction, notification recommendation engine, and forecasting pipelines to production
 - 🎓 &nbsp;B.Tech CS @ VIT Vellore · Merit Scholarship, Top 10 rank
 - 🏆 &nbsp;Runner-up @ Voxel51 Visual AI Hackathon &nbsp;·&nbsp; Finalist @ JPMorgan Code For Good
