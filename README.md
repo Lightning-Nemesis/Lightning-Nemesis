@@ -52,7 +52,7 @@ Implemented the STaR methodology on LLaMA 3.2-3B — iterative rationale refinem
 
 ---
 
-### [`Grocery-agent (Clickless AI(`](https://github.com/Lightning-Nemesis/grocery-agent)
+### [`Grocery-agent (Clickless AI)`](https://github.com/Lightning-Nemesis/grocery-agent)
 **Autonomous Grocery Shopping Agent**  
 Conversational AI agent that converts natural language into checkout-ready grocery carts via Instacart API, Knowledge Graphs, and LLM orchestration with automated checkout using BrowserUse and Playwright.
 
