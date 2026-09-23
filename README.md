@@ -60,6 +60,14 @@ Conversational AI agent that converts natural language into checkout-ready groce
 
 ---
 
+### [`APS-AI-for-Energy`](https://github.com/Lightning-Nemesis/APS-AI-for-Energy)
+**Spatio-Temporal Grid Load Forecasting — APS Energy Hackathon**  
+Built a GNN + LSTM forecasting pipeline on a 132-bus IEEE distribution network, engineering 44 features across 5.7M rows and hitting 3.1kW MAE (R² 0.978) on held-out heat dome data. Ran inference-only stress tests for heat dome and EV surge scenarios, flagging 130/132 buses at thermal risk without retraining, then shipped a React dashboard for grid operators.
+
+`PyTorch Geometric` &nbsp;`GNN` &nbsp;`LSTM` &nbsp;`OpenDSS` &nbsp;`React`
+
+---
+
 ## 🛠️ Stack
 
 **AI / LLMs**  
